@@ -38,6 +38,6 @@ class LearningApplicationTest {
 
 	@Test
 	void contextLoads6() {
-		assertTrue(true);
+		assertTrue(false);
 	}
 }
